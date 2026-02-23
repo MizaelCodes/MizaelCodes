@@ -47,9 +47,9 @@
   <ul>
     <li>Desenvolvimento web com foco em JavaScript</li>
     <li>Implantação e uso de serviços da AWS</li>
+    <li>Administração de Serviços M365/ Azure</li>
     <li>Resolução de problemas com criatividade e organização</li>
     <li>Colaboração em equipe e comunicação eficaz</li>
-    <li>CAdministração de Serviços M365/ Azure</li>
   </ul>
 
   <p>
