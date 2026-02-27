@@ -5,7 +5,7 @@
 <div align="center">
   <br>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MizaelCodes&show_icons=true&count_private=true&hide=contribs&bg_color=101c25&icon_color=b7f2a7&title_color=0E8AE6&text_color=FFF&border_color=044B6B&hide_border=false&border_radius=8&locale=pt-BR" width="51%"/>
-  <!--img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MizaelCodes&layout=compact&langs_count=7&theme=synthwave" width="48%" /-->
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MizaelCodes&layout=compact&langs_count=7&bg_color=101c25&text_color=FFF" width="48%">
 </div>
 
 <br>
