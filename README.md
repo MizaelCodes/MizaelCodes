@@ -32,7 +32,7 @@
   <ul>
     <li><b>💻 Análise e Desenvolvimento de Sistemas</b> – UNIAMERICA (em andamento)</li>
     <li><b>🧩 Técnico em Desenvolvimento de Sistemas</b> – ETEC Paulistano (concluído)</li>
-    <li><b>🌐 Desenvolvedor Web Java</b> – Instituto PROA (concluído)</li>
+    <li><b>🌐 Desenvolvedor Web Java</b> – Senac (concluído)</li>
     <li><b>☁️ Fundamentos de AWS</b> – Escola da Nuvem (certificado)</li>
   </ul>
 
